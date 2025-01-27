@@ -10,7 +10,7 @@ name: Myeongsu Kim
 title: AI Research Engineer
 email: myeongsu1213@gmail.com
 # email_title: Email (Email title override)
-phone: 010-3892-3754 (optional)
+phone: 010-3892-3754
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -51,7 +51,7 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_profile_image: images/image.jpg)
+about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
