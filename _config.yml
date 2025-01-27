@@ -34,10 +34,10 @@ github_username: https://github.com/mysu1213
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,14 +52,28 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_profile_image: images/image.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# about_content: | # this will include new lines to allow paragraphs
+#   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#     - Lists
+#     - Tables
+#     - <a href="google.com">Links</a>
+#     - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
+about_content: | 
+  ## 안녕하세요!  
+  AI Research Engineer로서, 인공지능과 머신러닝 기술을 활용해 혁신적인 솔루션을 개발하고 있습니다.  
+  주로 얼굴인식, 딥러닝 기반 알고리즘, 그리고 사용자 친화적인 UI 개발에 집중하며, 최신 기술 트렌드에 항상 발맞추고 있습니다.
+
+  ### 기술 스택  
+  - **프로그래밍 언어**: Python, C++, JavaScript  
+  - **머신러닝 프레임워크**: TensorFlow, PyTorch, scikit-learn  
+  - **컴퓨터 비전**: OpenCV, Mediapipe  
+  - **UI 개발**: PyQt, Qt  
+  - **플랫폼**: Linux, Raspberry Pi  
+
+  더 나은 세상을 만드는 AI 솔루션을 개발하며, 다양한 문제를 해결하는 데 기여하는 것이 목표입니다!  
 
 content:
   - title: Projects # Title for the section
