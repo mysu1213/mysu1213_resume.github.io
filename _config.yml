@@ -12,7 +12,7 @@ email: myeongsu1213@gmail.com
 # email_title: Email (Email title override)
 # phone: 010-3892-3754
 # phone_title: Phone (Phone title override)
-website: https://github.com/mysu1213
+website: www.github.com/mysu1213
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,7 +20,7 @@ darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
-github_username: https://github.com/mysu1213
+github_username: mysu1213
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
