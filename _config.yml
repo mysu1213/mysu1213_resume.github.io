@@ -100,19 +100,19 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
+  # - title: Experience
+  #   layout: list
+  #   content:
+  #     - layout: right
+  #       title: Company name
+  #       sub_title: Job title
+  #       caption: Date Range (eg. November 2016 - present)
+  #       link: Link to company (optional)
+  #       quote: >
+  #         Short description of the company (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of role
+  - title: EDUCATION
     layout: list
     content:
       - layout: top-left
@@ -120,8 +120,6 @@ content:
         sub_title: M.S. Candidate Department of Biomedical Engineering
         caption: 2020 - 2023
 
-    # layout: list
-    # content:
       - layout: top-left
         title: Myongji University
         sub_title: B.S. Department of Mechanical Engineering
@@ -130,7 +128,18 @@ content:
           # Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
           # Description of qualification
-
+  - title: JOURNAL & PRESENTATION
+    layout: list
+    content:
+      - layout: left
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
