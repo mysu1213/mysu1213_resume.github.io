@@ -121,7 +121,7 @@ content:
         caption: 2020 - 2023
 
     # layout: list
-    content:
+    # content:
       - layout: top-left
         title: Myongji University
         sub_title: B.S. Department of Mechanical Engineering
