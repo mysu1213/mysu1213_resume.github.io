@@ -66,6 +66,8 @@ about_content: |
   AI Research Engineer로서, 인공지능과 머신러닝 기술을 활용해 혁신적인 솔루션을 개발하고 있습니다.  
   주로 얼굴인식, 딥러닝 기반 알고리즘, 그리고 사용자 친화적인 UI 개발에 집중하며, 최신 기술 트렌드에 항상 발맞추고 있습니다.
 
+  <hr style="border-top: 3px double #000; margin: 10px 0;">
+  
   ### 기술 스택  
   - **프로그래밍 언어**: Python, C++, JavaScript  
   - **머신러닝 프레임워크**: TensorFlow, PyTorch, scikit-learn  
