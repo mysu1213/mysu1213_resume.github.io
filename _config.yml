@@ -54,32 +54,30 @@ github_username: mysu1213
 about_profile_image: images/image.jpg
 
 about_content: |
-  **기술 스택**
-  - 📌 프로그래밍 언어
+  **Tech Stack**
+  - 📌 Programming Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  - 🖼️ 컴퓨터 비전 & 딥러닝
+  - 🖼️ Computer Vision & Deep Learning
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-  - 🌐 웹 개발 & 프레임워크
+  - 🌐 Web Development & Frameworks
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
-  - 💾 데이터베이스
+  - 💾 Database
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  - ⚙️ 운영체제 & 배포
+  - ⚙️ Operating Systems & Deployment
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
   ![DLL Development](https://img.shields.io/badge/DLL%20Development-0078D6?style=flat)
-  - 🔗 협업 및 버전 관리
+  - 🔗 Collaboration & Version Control
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
-
 
 content:
   - title: Projects # Title for the section
