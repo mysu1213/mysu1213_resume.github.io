@@ -119,6 +119,7 @@ content:
         title: Hanyang University
         sub_title: M.S. Candidate Department of Biomedical Engineering
         caption: 2020 - 2023
+  - title: Education
     layout: list
     content:
       - layout: top-right
