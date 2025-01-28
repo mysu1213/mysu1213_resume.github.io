@@ -52,61 +52,40 @@ github_username: mysu1213
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_profile_image: images/image.jpg
-# about_content: | # this will include new lines to allow paragraphs
-# <h2>기술 스택</h2>
 
-# <h3>📌 프로그래밍 언어</h3>
-# <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-# <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+about_content: |
+  ## 기술 스택
 
-# <h3>🖼️ 컴퓨터 비전 & 딥러닝</h3>
-# <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-# <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-# <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
+  ### 📌 프로그래밍 언어
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-# <h3>🌐 웹 개발 & 프레임워크</h3>
-# <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-# <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-# <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-# <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-# <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white" />
+  ### 🖼️ 컴퓨터 비전 & 딥러닝
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
-# <h3>💾 데이터베이스</h3>
-# <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  ### 🌐 웹 개발 & 프레임워크
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 
-# <h3>⚙️ 운영체제 & 배포</h3>
-# <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-# <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-# <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-# <img src="https://img.shields.io/badge/DLL%20Development-0078D6?style=flat" />
+  ### 💾 데이터베이스
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-# <h3>🔗 협업 및 버전 관리</h3>
-# <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-# <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  ### ⚙️ 운영체제 & 배포
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+  ![DLL Development](https://img.shields.io/badge/DLL%20Development-0078D6?style=flat)
 
-#   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  ### 🔗 협업 및 버전 관리
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-#   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#     - Lists
-#     - Tables
-#     - <a href="google.com">Links</a>
-#     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
-about_content: | 
-  ## 안녕하세요!  
-  AI Research Engineer로서, 인공지능과 머신러닝 기술을 활용해 혁신적인 솔루션을 개발하고 있습니다.  
-  주로 얼굴인식, 딥러닝 기반 알고리즘, 그리고 사용자 친화적인 UI 개발에 집중하며, 최신 기술 트렌드에 항상 발맞추고 있습니다.
-
-  <hr style="border-top: 3px double #000; margin: 10px 0;">
-
-  ### 기술 스택  
-  - **프로그래밍 언어**: Python, C++, JavaScript  
-  - **머신러닝 프레임워크**: TensorFlow, PyTorch, scikit-learn  
-  - **컴퓨터 비전**: OpenCV, Mediapipe  
-  - **UI 개발**: PyQt, Qt  
-  - **플랫폼**: Linux, Raspberry Pi  
-
-  더 나은 세상을 만드는 AI 솔루션을 개발하며, 다양한 문제를 해결하는 데 기여하는 것이 목표입니다!  
 
 content:
   - title: Projects # Title for the section
