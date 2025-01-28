@@ -115,14 +115,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Hanyang University
         sub_title: M.S. Candidate Department of Biomedical Engineering
         caption: 2020 - 2023
-  - title: Education
+
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Myongji University
         sub_title: B.S. Department of Mechanical Engineering
         caption: 2014 - 2020
